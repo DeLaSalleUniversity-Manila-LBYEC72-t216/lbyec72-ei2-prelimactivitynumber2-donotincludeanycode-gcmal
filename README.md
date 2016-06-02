@@ -3,7 +3,7 @@ lbyec72-ei2-prelimactivitynumber2-donotincludeanycode-gcmal created by GitHub Cl
 
 Mallari Gabriel C. 
 
-![](pic1.png)
+![](pic1.1.png)
 ![](pic2.png)
 ![](pic3.png)
 ![](pic4.png)
